@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Bem vindo! Eu sou o Magno👋
 
 <!--
 **magnumcrf/magnumcrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
