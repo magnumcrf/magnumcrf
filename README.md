@@ -1,4 +1,4 @@
-### Olá, Bem vindo! Eu sou o Magno! 👋
+### Oi, Bem vindo! Magno aqui! 👋
 
 
 - 🌱 Estudante de Analise e Desenvolvimento de sistema.
